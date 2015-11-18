@@ -1,11 +1,15 @@
 # j-gw2-api
 Automatically exported from code.google.com/p/j-gw2-api
 
-## Plans
+### Notes
+
+This code makes use of the JSON stuff provided here: http://json.org/java/ (source code: https://github.com/douglascrockford/JSON-java), but does not include it (i.e. you'll need a copy of that code to use it).
+
+### Plans
 I wanted to make some changes to the code provided at the google code page mentioned above and github
 is a handy way to post it That the code should be under the MIT license is very convenient.
 
-## License
+### License
 
 MIT License  
 http://opensource.org/licenses/mit-license.php
